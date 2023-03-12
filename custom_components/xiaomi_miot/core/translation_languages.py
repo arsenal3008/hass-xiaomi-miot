@@ -800,8 +800,8 @@ TRANSLATION_LANGUAGES = {
         },
 
         'vacuum': {
-            'robot cleaner': 'робот-пылесос',
-            'robot cleaner status': 'статус робота-пылесоса',
+            'robot cleaner': 'Робот-пылесос',
+            'robot cleaner status': 'Статус Робота-пылесоса',
             'robot cleaner mode': 'режим уборки',
             'robot cleaner sweep type': 'тип уборки',
         },
