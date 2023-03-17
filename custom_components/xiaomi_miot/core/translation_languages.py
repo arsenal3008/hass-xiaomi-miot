@@ -587,11 +587,11 @@ TRANSLATION_LANGUAGES = {
     },
 
     'ru': {
-        'off': 'Выключенный',
-        'idle': 'Бездействующий',
-        'busy': 'Занятый',
+        'off': 'Выключено',
+        'idle': 'Бездействие',
+        'busy': 'Работает',
         'pause': 'Пауза',
-        'fault': 'Неисправный',
+        'fault': 'Неисправность',
 
         '_globals': {
             'mode': 'Режим',
@@ -627,10 +627,10 @@ TRANSLATION_LANGUAGES = {
             'basic': 'базовый',
             'low': 'низкий',
             'medium': 'средний',
-            'high': 'высокий',
-            'sleep': 'спящий',
-            'smart': 'умный',
-            'favorite': 'любимый',
+            'high': 'мощный',
+            'sleep': 'сон',
+            'smart': 'интелект',
+            'favorite': 'избранный',
         },
 
         'air_conditioner': {
@@ -641,18 +641,18 @@ TRANSLATION_LANGUAGES = {
             'cool': 'охлаждение',
             'dry': 'осушение',
             'fan': 'вентиляция',
-            'heat': 'отопление',
+            'heat': 'обогрев',
         },
 
         'air_fresh.mode': {
             'auto': 'авто',
             'interval': 'интервал',
-            'smart': 'умный',
+            'smart': 'интелект',
             'silent': 'тихий',
-            'strong': 'сильный',
+            'strong': 'мощный',
             'none': 'никакой',
-            'sleep': 'спящий',
-            'favorite': 'любимый',
+            'sleep': 'сон',
+            'favorite': 'избранный',
         },
 
         'battery': {
@@ -666,7 +666,7 @@ TRANSLATION_LANGUAGES = {
             'close_timeout': 'тайм-аут_закрытия',
             'knock': 'стук',
             'breaking': 'нарушение',
-            'stuck': 'застрявший',
+            'stuck': 'застревание',
         },
 
         'fan.mode': {
@@ -677,8 +677,8 @@ TRANSLATION_LANGUAGES = {
             'energy saving': 'сохранение энергии',
             'none': 'никакой',
             'baby': 'ребенок',
-            'smart': 'умный',
-            'sleep': 'спящий',
+            'smart': 'интелект',
+            'sleep': 'сон',
             'strong': 'сильный',
             'circular wind': 'круговая скорость вентилятора',
         },
@@ -824,7 +824,7 @@ TRANSLATION_LANGUAGES = {
             'basic': 'базовый',
             'silent': 'тихий',
             'standard': 'стандартный',
-            'strong': 'сильный',
+            'strong': 'мощный',
             'turbo': 'турбо',
             'full speed': 'максимальная скорость',
             'sweep': 'Сухая',
